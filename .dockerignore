@@ -1,0 +1,7 @@
+# Ignore all
+*
+
+# Allowlist
+!.mvn
+!mvnw
+!pom.xml
